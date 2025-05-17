@@ -1,2 +1,2 @@
 # Senior-Design-Project
-Created by Ezequiel Villanueva & Logan Doizaki[https://github.com/ldoizak1]
+Created by [Ezequiel Villanueva](https://github.com/TheEzeJC/) & [Logan Doizaki](https://github.com/ldoizak1)
